@@ -37,4 +37,5 @@ curl -X 'POST' \
 
 ### Tests
 
-in container web, run `pytest`
+docker ps
+docker exec -it WEB_CONTAINER_ID pytest
