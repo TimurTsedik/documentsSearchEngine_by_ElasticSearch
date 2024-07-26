@@ -6,4 +6,4 @@ elasticsearch
 python-dotenv
 requests
 pytest
-httpx
+
