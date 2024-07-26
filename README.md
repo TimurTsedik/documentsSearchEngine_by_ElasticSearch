@@ -2,6 +2,8 @@
 
 docker-compose up --build
 
+Indexes are created in the background. Data is imported in the background.
+
 ### Swagger documentation
 
 http://localhost:8000/docs
