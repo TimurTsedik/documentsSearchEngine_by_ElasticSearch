@@ -1,3 +1,7 @@
+### Data stored in data folder
+
+  initial data in posts.csv file
+
 ### Starting containers
 
 docker-compose up --build
