@@ -41,7 +41,7 @@ def import_data(csv_file):
     with open(csv_file, newline='', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            rubrics = []  # Замените на реальные данные или уберите, если не используете
+            rubrics = []
             text = row['text']
 
             new_doc = Document(rubrics=rubrics, text=text)
