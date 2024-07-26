@@ -4,7 +4,7 @@ docker-compose up --build
 
 Indexes are created in the background. Data is imported in the background.
 
-After running `docker-compose up`, wait untill fastAPI server is up and running.
+After running `docker-compose up`, wait until fastAPI server is up and running.
 
 ### Swagger documentation
 
