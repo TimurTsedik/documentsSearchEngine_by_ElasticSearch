@@ -63,5 +63,5 @@ def import_data(csv_file):
 
 
 if __name__ == "__main__":
-    import_data('posts.csv')
+    import_data('data/posts.csv')
     print("Data import completed.")

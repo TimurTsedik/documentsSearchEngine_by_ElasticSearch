@@ -4,7 +4,7 @@ from typing import List
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from models import Base, Document
+from app.models import Base, Document
 from dotenv import load_dotenv
 import os
 import requests
