@@ -34,3 +34,7 @@ curl -X 'POST' \
   ],
   "text": "YOUR_POST"
 }'
+
+### Tests
+
+in container web, run `pytest`
